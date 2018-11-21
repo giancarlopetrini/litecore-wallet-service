@@ -29,6 +29,7 @@
     "express-rate-limit": "^2.6.0",
     "inherits": "^2.0.1",
     "json-stable-stringify": "^1.0.0",
+    "litecore-lib": "github:litecoin-project/litecore-lib#v5.0",
     "locker": "^0.1.0",
     "locker-server": "^0.1.3",
     "lodash": "^3.10.1",
